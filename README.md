@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Anthony 👋
+
+Science enthusiast transitioning into the tech world. Combining a biology background with a current pursuit of a Applied Computer Science degree to carve a niche in the tech industry.
+With a foundation in biology and a passion for problem-solving, I'm embracing coding and technology as tools to explore new horizons.
 
 <!--
 **anthole95/anthole95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
