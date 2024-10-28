@@ -1,6 +1,6 @@
 ### Hi, I'm Anthony 👋
 
-Science enthusiast transitioning into the tech world. Combining a biology background with a current pursuit of a Applied Computer Science degree to carve a niche in the tech industry.
+Science enthusiast transitioning into the tech world.
 With a foundation in biology and a passion for problem-solving, I'm embracing coding and technology as tools to explore new horizons.
 
 <!--
