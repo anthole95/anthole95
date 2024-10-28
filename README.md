@@ -1,7 +1,10 @@
 ### Hi, I'm Anthony 👋
 
-Science enthusiast transitioning into the tech world.
-With a foundation in biology and a passion for problem-solving, I'm embracing coding and technology as tools to explore new horizons.
+Data-driven, adaptable professional with a dual foundation in biology and computer science, bringing a unique perspective to tech through a strong analytical and scientific background. Passionate about problem-solving and innovation, I leverage my experience with data analysis, workflow optimization, and coding to bridge the gap between biological insights and technological advancement.
+
+Curious and determined, I thrive in dynamic environments, continuously seeking opportunities to learn and tackle new challenges. My journey from molecular biology to algorithms highlights a commitment to exploring the intersections of science and technology. Let's connect to collaborate on impactful projects and bring fresh perspectives to the tech landscape.
+
+Find me on LinkedIn: https://www.linkedin.com/in/anthole/
 
 <!--
 **anthole95/anthole95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
